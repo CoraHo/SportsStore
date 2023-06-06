@@ -15,6 +15,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -69,6 +95,7 @@
       <workItem from="1685740815983" duration="173000" />
       <workItem from="1685991446900" duration="7352000" />
       <workItem from="1686067619859" duration="5174000" />
+      <workItem from="1686079472467" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="Sport Shop model I.">
       <created>1686078951226</created>
